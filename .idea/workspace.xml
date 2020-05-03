@@ -1,20 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa52ea3e-6a30-4622-af4a-163a3b9463a6" name="Default Changelist" comment="" />
+    <list default="true" id="a7ad0b30-d0bf-40a2-aff7-4c727a5b8f9b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerankProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hackerRank/Java1DArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/f/0f758bc69c041f00c4d31f9171c346e4e67da645" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/1/1146aeaaaac057080c4d1513e67ea450ff5e765d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e25457d7fc5c08f3fd2ca9e174408332d09d7c5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/7/376bfac0e59930aca0a44a311c18238c338522c0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3d2bc3f74e7fa46191e27791581a60650899af34" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/4484f7f9fd966f06050d6054222baa3e62f1adc0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/44aa49c58105011b144225cc1de1fea6da695e93" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/b/4bad2a5d824edec7f830583c1b246d544aad5408" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/c/4ca2575a4655356c506b87b47b4e769354fc44f5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5ea8045639341509f88fa7bb6681c337e0b2d410" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/67552ed50e8f1f2a876a5476ef26dd62d1fc0b5a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/693eb5244a40fa27c49d51ff2e3746ef41d2e466" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d0bae71f4d7ae144902a0b44bf1a5715e6b3777" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6e4f14d14c346f5ef269854bf9f8239623a50032" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/74c8e493e95741f672bd76af2ed59247fc0673ae" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/93a321f1d19485ce38cea32788f1439dcef42267" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a6015cd6273bb225c94764bc8265c54ef602f75a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/ab7cbfd7ce91618abec71edc92bd269e2a20f541" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bb927c8aa704445932efc4ba7bf629ef9aac2457" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/f/cf7ed0d72d890d0f367903e9d954eb94462a3d47" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e0af11221db9494ced9685fb7e5b8b9af26e152a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed02748c20b8790bd67424f669b9a10eceee6cf4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/6/f6bf94a8c765459fac955cad8b9b83910fb96119" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerankExercises.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerankExercises/META-INF/HackerankExercises.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerankExercises/com/hackerRank/BigDecimalHackerRank$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerankExercises/com/hackerRank/BigDecimalHackerRank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerankExercises/com/hackerRank/BigIntegerHackerRank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerankExercises/com/hackerRank/BreadthHeight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerankExercises/com/hackerRank/CurrencyFormatter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerankExercises/com/hackerRank/DatatypesExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerankExercises/com/hackerRank/EndOfFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerankExercises/com/hackerRank/FormulSolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerankExercises/com/hackerRank/GetDayOfDate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerankExercises/com/hackerRank/IntToString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerankExercises/com/hackerRank/IsAnagram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerankExercises/com/hackerRank/IsAnagram2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerankExercises/com/hackerRank/MultiplicationTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerankExercises/com/hackerRank/MyRegex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerankExercises/com/hackerRank/PatternSyntaxChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerankExercises/com/hackerRank/PrimalityTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerankExercises/com/hackerRank/Regex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerankExercises/com/hackerRank/Regex2DuplicateWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerankExercises/com/hackerRank/StringReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerankExercises/com/hackerRank/StringTokens.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerankExercises/com/hackerRank/StringsIntroduction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerankExercises/com/hackerRank/Substring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerankExercises/com/hackerRank/SubstringComparisons.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerankExercises/com/hackerRank/TagContentExtractor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerankExercises/com/hackerRank/UsernameValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerankExercises/com/hackerRank/ValidUsernameRegularExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerankExercises/com/hackerRank/variable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerankProject/META-INF/HackerankProject.kotlin_module" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1aTkuU96xNZA4dKsZA2FBqNmfGu" />
+  <component name="ProjectId" id="1bOhxWGKJvRYOd2PVX0hDDrkVJQ" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,34 +85,21 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="C:/DEV/Tools-Data/workspace-intellij/police-web" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.HackerRank" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.hackerRank" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\ProjectExample\HackerankProject\src\com\hackerRank" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BigIntegerHackerRank">
-    <configuration name="BigDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hackerRank.BigDecimal" />
-      <module name="HackerankExercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hackerRank.BigDecimalHackerRank" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BigDecimalHackerRank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hackerRank.BigDecimalHackerRank" />
-      <module name="HackerankExercises" />
+  <component name="RunManager">
+    <configuration name="Java1DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hackerRank.Java1DArray" />
+      <module name="HackerankProject" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.hackerRank.*" />
@@ -62,218 +110,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BigIntegerHackerRank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hackerRank.BigIntegerHackerRank" />
-      <module name="HackerankExercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hackerRank.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrimalityTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hackerRank.PrimalityTest" />
-      <module name="HackerankExercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hackerRank.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TagContentExtractor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hackerRank.TagContentExtractor" />
-      <module name="HackerankExercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hackerRank.BigDecimalHackerRank" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.TagContentExtractor" />
-      <item itemvalue="Application.BigDecimal" />
-      <item itemvalue="Application.BigDecimalHackerRank" />
-      <item itemvalue="Application.PrimalityTest" />
-      <item itemvalue="Application.BigIntegerHackerRank" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BigIntegerHackerRank" />
-        <item itemvalue="Application.PrimalityTest" />
-        <item itemvalue="Application.BigDecimalHackerRank" />
-        <item itemvalue="Application.BigDecimal" />
-        <item itemvalue="Application.TagContentExtractor" />
+        <item itemvalue="Application.Java1DArray" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\bimsa.ibesli\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fa52ea3e-6a30-4622-af4a-163a3b9463a6" name="Default Changelist" comment="" />
-      <created>1586767194024</created>
+      <changelist id="a7ad0b30-d0bf-40a2-aff7-4c727a5b8f9b" name="Default Changelist" comment="" />
+      <created>1588509293627</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1586767194024</updated>
+      <updated>1588509293627</updated>
     </task>
     <servers />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1588416147289">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1588416147289" />
-    <state width="510" height="457" key="DebuggerActiveHint" timestamp="1588420064769">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="510" height="457" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1588420064769" />
-    <state width="1367" height="210" key="GridCell.Tab.0.bottom" timestamp="1588505856516">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1367" height="210" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588505856516" />
-    <state width="1367" height="210" key="GridCell.Tab.0.center" timestamp="1588505856516">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1367" height="210" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588505856516" />
-    <state width="1367" height="210" key="GridCell.Tab.0.left" timestamp="1588505856516">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1367" height="210" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588505856516" />
-    <state width="1367" height="210" key="GridCell.Tab.0.right" timestamp="1588505856516">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1367" height="210" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588505856516" />
-    <state width="1367" height="210" key="GridCell.Tab.1.bottom" timestamp="1588505856516">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1367" height="210" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588505856516" />
-    <state width="1367" height="210" key="GridCell.Tab.1.center" timestamp="1588505856516">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1367" height="210" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1588505856516" />
-    <state width="1367" height="210" key="GridCell.Tab.1.left" timestamp="1588505856516">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1367" height="210" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1588505856516" />
-    <state width="1367" height="210" key="GridCell.Tab.1.right" timestamp="1588505856516">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1367" height="210" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1588505856516" />
-    <state x="184" y="6" key="SettingsEditor" timestamp="1588087214179">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588087214179" />
-    <state x="65" y="0" key="new project wizard" timestamp="1588232049453">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1588232049453" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1588252364114">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1588252364114" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587834013323">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1587834013323" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/hackerRank/EndOfFile.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/hackerRank/IntToString.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/hackerRank/GetDayOfDate.java</url>
-          <line>35</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/hackerRank/CurrencyFormatter.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/hackerRank/StringTokens.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/hackerRank/SubstringComparisons.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/hackerRank/StringReverse.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/hackerRank/StringReverse.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/hackerRank/StringReverse.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/hackerRank/Regex2DuplicateWords.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/hackerRank/Regex2DuplicateWords.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="36" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/hackerRank/BigDecimalHackerRank.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/hackerRank/PrimalityTest.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="41" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/hackerRank/PrimalityTest.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="42" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-field">
-          <url>file://$PROJECT_DIR$/src/com/hackerRank/Regex.java</url>
-          <line>17</line>
-          <properties field="num" class="com.hackerRank.MyRegex" />
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/HackerankProject$PrimalityTest.ic" NAME="PrimalityTest Coverage Results" MODIFIED="1588503701482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>com.hackerRank.*</FILTER>
-    </SUITE>
   </component>
 </project>

@@ -1,0 +1,6 @@
+
+N
+java:S1481",Remove this unused "scanner" local variable.(ù ƒ‘üÿÿÿÿ8ä‰ùºš.
+]
+java:S1854";Remove this useless assignment to local variable "scanner".(ù ƒ‘üÿÿÿÿ8ä‰ùºš.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º÷Ò

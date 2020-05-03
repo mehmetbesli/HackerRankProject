@@ -1,0 +1,8 @@
+
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8²·Ëª.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…ºú
+D
+java:S1604"(Make this anonymous inner class a lambda(­è¶8½’Ìª.
+S
+java:S1128"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ8¨é£¨.

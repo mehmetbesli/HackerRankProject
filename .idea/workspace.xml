@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa52ea3e-6a30-4622-af4a-163a3b9463a6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aTkuU96xNZA4dKsZA2FBqNmfGu" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.HackerRank" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.hackerRank" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BigIntegerHackerRank">
+    <configuration name="BigDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hackerRank.BigDecimal" />
+      <module name="HackerankExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hackerRank.BigDecimalHackerRank" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BigDecimalHackerRank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hackerRank.BigDecimalHackerRank" />
+      <module name="HackerankExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hackerRank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BigIntegerHackerRank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hackerRank.BigIntegerHackerRank" />
+      <module name="HackerankExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hackerRank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimalityTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hackerRank.PrimalityTest" />
+      <module name="HackerankExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hackerRank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TagContentExtractor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hackerRank.TagContentExtractor" />
+      <module name="HackerankExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hackerRank.BigDecimalHackerRank" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TagContentExtractor" />
+      <item itemvalue="Application.BigDecimal" />
+      <item itemvalue="Application.BigDecimalHackerRank" />
+      <item itemvalue="Application.PrimalityTest" />
+      <item itemvalue="Application.BigIntegerHackerRank" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BigIntegerHackerRank" />
+        <item itemvalue="Application.PrimalityTest" />
+        <item itemvalue="Application.BigDecimalHackerRank" />
+        <item itemvalue="Application.BigDecimal" />
+        <item itemvalue="Application.TagContentExtractor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa52ea3e-6a30-4622-af4a-163a3b9463a6" name="Default Changelist" comment="" />
+      <created>1586767194024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586767194024</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1588416147289">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1588416147289" />
+    <state width="510" height="457" key="DebuggerActiveHint" timestamp="1588420064769">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="510" height="457" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1588420064769" />
+    <state width="1367" height="210" key="GridCell.Tab.0.bottom" timestamp="1588505856516">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="210" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588505856516" />
+    <state width="1367" height="210" key="GridCell.Tab.0.center" timestamp="1588505856516">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="210" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588505856516" />
+    <state width="1367" height="210" key="GridCell.Tab.0.left" timestamp="1588505856516">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="210" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588505856516" />
+    <state width="1367" height="210" key="GridCell.Tab.0.right" timestamp="1588505856516">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="210" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588505856516" />
+    <state width="1367" height="210" key="GridCell.Tab.1.bottom" timestamp="1588505856516">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="210" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588505856516" />
+    <state width="1367" height="210" key="GridCell.Tab.1.center" timestamp="1588505856516">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="210" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1588505856516" />
+    <state width="1367" height="210" key="GridCell.Tab.1.left" timestamp="1588505856516">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="210" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1588505856516" />
+    <state width="1367" height="210" key="GridCell.Tab.1.right" timestamp="1588505856516">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="210" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1588505856516" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1588087214179">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588087214179" />
+    <state x="65" y="0" key="new project wizard" timestamp="1588232049453">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1588232049453" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1588252364114">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1588252364114" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587834013323">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1587834013323" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerRank/EndOfFile.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerRank/IntToString.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerRank/GetDayOfDate.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerRank/CurrencyFormatter.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerRank/StringTokens.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerRank/SubstringComparisons.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerRank/StringReverse.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerRank/StringReverse.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerRank/StringReverse.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerRank/Regex2DuplicateWords.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerRank/Regex2DuplicateWords.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerRank/BigDecimalHackerRank.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerRank/PrimalityTest.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerRank/PrimalityTest.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/com/hackerRank/Regex.java</url>
+          <line>17</line>
+          <properties field="num" class="com.hackerRank.MyRegex" />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HackerankProject$PrimalityTest.ic" NAME="PrimalityTest Coverage Results" MODIFIED="1588503701482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.hackerRank.*</FILTER>
+    </SUITE>
+  </component>
+</project>

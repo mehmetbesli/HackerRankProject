@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7ad0b30-d0bf-40a2-aff7-4c727a5b8f9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Yeni Metin Belgesi.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerankProject/com/hackerRank/Java1DArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerankProject/com/hackerRank/Java1DArray.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/hackerRank/Java2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hackerRank/Java2DArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

@@ -31,6 +31,7 @@ public class Java2DArray {
                 }
             }
         }
+        
         System.out.println(sum);
 
     }

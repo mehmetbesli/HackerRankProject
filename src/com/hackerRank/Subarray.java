@@ -19,11 +19,13 @@ public class Subarray {
             a[i] = scanner.nextInt();
         }
 
-        int count = 0;
-        for (int i = 0; i < lengthArr - 1; i++) {
-            for (int j = i; j < lengthArr; j++) {
-                if (a[i] + a[j] < 0) {
-                    System.out.println(a[i] + " + " + a[j] + " : " + (a[i]+a[j]));
+        int count=0;
+        for(int j=0;j<lengthArr;j++){
+            int sum=0;
+            for(int k=j;k<lengthArr;k++){
+                sum=a[k]+sum;
+                if(sum<0){
+                    System.out.println(sum);
                     count++;
                 }
             }

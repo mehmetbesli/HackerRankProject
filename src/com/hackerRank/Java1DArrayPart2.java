@@ -19,9 +19,7 @@ public class Java1DArrayPart2 {
             return false;
         }
 
-        game[number] = 1; // marks as visited
-
-        // Recursive Cases
+        game[number] = 1;
         return isSolvable(leap, game, number + leap) ||
                 isSolvable(leap, game, number + 1) ||
                 isSolvable(leap, game, number - 1);

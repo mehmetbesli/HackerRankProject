@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7ad0b30-d0bf-40a2-aff7-4c727a5b8f9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hackerRank/Java1DArrayPart2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/e/fe0f05abd144cac482ff8b3e5c271737464f469a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/e/fe0f05abd144cac482ff8b3e5c271737464f469a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerankProject/com/hackerRank/Subarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerankProject/com/hackerRank/Subarray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hackerRank/Subarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hackerRank/Subarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hackerRank/Java1DArrayPart2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hackerRank/Java1DArrayPart2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,7 +200,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/hackerRank/Java1DArrayPart2.java</url>
-          <line>41</line>
+          <line>39</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>

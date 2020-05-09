@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7ad0b30-d0bf-40a2-aff7-4c727a5b8f9b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/hackerRank/Java1DArrayPart2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/e/fe0f05abd144cac482ff8b3e5c271737464f469a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/e/fe0f05abd144cac482ff8b3e5c271737464f469a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerankProject/com/hackerRank/Subarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerankProject/com/hackerRank/Subarray.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/hackerRank/Subarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hackerRank/Subarray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +42,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="C:/DEV/Tools-Data/workspace-intellij/police-web" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -48,9 +52,22 @@
       <recent name="C:\ProjectExample\HackerankProject\src\com\hackerRank" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Subarray">
+  <component name="RunManager" selected="Application.Java1DArrayPart2">
     <configuration name="Java1DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hackerRank.Java1DArray" />
+      <module name="HackerankProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hackerRank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Java1DArrayPart2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hackerRank.Java1DArrayPart2" />
       <module name="HackerankProject" />
       <extension name="coverage">
         <pattern>
@@ -90,6 +107,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Java1DArrayPart2" />
         <item itemvalue="Application.Subarray" />
         <item itemvalue="Application.Java2DArray" />
         <item itemvalue="Application.Java1DArray" />
@@ -117,50 +135,50 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="111" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1588663738084" />
-    <state width="387" height="466" key="DebuggerActiveHint" timestamp="1588665047696">
+    <state width="403" height="466" key="DebuggerActiveHint" timestamp="1588859369234">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="387" height="466" key="DebuggerActiveHint/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1588665047696" />
+    <state width="403" height="466" key="DebuggerActiveHint/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1588859369234" />
     <state width="387" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1588606543324" />
-    <state width="1367" height="180" key="GridCell.Tab.0.bottom" timestamp="1588773089155">
+    <state width="1367" height="180" key="GridCell.Tab.0.bottom" timestamp="1588859442938">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="180" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1588773089155" />
+    <state width="1367" height="180" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1588859442938" />
     <state width="1367" height="180" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588606287825" />
-    <state width="1367" height="180" key="GridCell.Tab.0.center" timestamp="1588773089154">
+    <state width="1367" height="180" key="GridCell.Tab.0.center" timestamp="1588859442937">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="180" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1588773089154" />
+    <state width="1367" height="180" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1588859442937" />
     <state width="1367" height="180" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588606287825" />
-    <state width="1367" height="180" key="GridCell.Tab.0.left" timestamp="1588773089154">
+    <state width="1367" height="180" key="GridCell.Tab.0.left" timestamp="1588859442937">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="180" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1588773089154" />
+    <state width="1367" height="180" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1588859442937" />
     <state width="1367" height="180" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588606287825" />
-    <state width="1367" height="180" key="GridCell.Tab.0.right" timestamp="1588773089155">
+    <state width="1367" height="180" key="GridCell.Tab.0.right" timestamp="1588859442937">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="180" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1588773089155" />
+    <state width="1367" height="180" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1588859442937" />
     <state width="1367" height="180" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588606287825" />
-    <state width="1367" height="180" key="GridCell.Tab.1.bottom" timestamp="1588773086677">
+    <state width="1367" height="180" key="GridCell.Tab.1.bottom" timestamp="1588859442938">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="180" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1588773086677" />
+    <state width="1367" height="180" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1588859442938" />
     <state width="1367" height="180" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588606287826" />
-    <state width="1367" height="180" key="GridCell.Tab.1.center" timestamp="1588773086676">
+    <state width="1367" height="180" key="GridCell.Tab.1.center" timestamp="1588859442938">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="180" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1588773086676" />
+    <state width="1367" height="180" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1588859442938" />
     <state width="1367" height="180" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1588606287825" />
-    <state width="1367" height="180" key="GridCell.Tab.1.left" timestamp="1588773086676">
+    <state width="1367" height="180" key="GridCell.Tab.1.left" timestamp="1588859442938">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="180" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1588773086676" />
+    <state width="1367" height="180" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1588859442938" />
     <state width="1367" height="180" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1588606287825" />
-    <state width="1367" height="180" key="GridCell.Tab.1.right" timestamp="1588773086677">
+    <state width="1367" height="180" key="GridCell.Tab.1.right" timestamp="1588859442938">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="180" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1588773086677" />
+    <state width="1367" height="180" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1588859442938" />
     <state width="1367" height="180" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1588606287826" />
   </component>
   <component name="XDebuggerManager">
@@ -182,8 +200,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/hackerRank/Subarray.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="8" />
+          <line>28</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerRank/Java1DArrayPart2.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

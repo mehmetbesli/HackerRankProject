@@ -12,24 +12,19 @@ public class Subarray {
         int lengthArr = scanner.nextInt();
         int[] a = new int[lengthArr];
 
+        int count = 0;
         for (int i = 0; i < lengthArr; i++) {
-//            String[] splitItem = scanner.nextLine().split(" ");
-//            int convertedSplitItem = Integer.parseInt(splitItem[i]);
-//            a[i] = convertedSplitItem;
             a[i] = scanner.nextInt();
-        }
-
-        int count=0;
-        for(int j=0;j<lengthArr;j++){
-            int sum=0;
-            for(int k=j;k<lengthArr;k++){
-                sum=a[k]+sum;
-                if(sum<0){
-                    System.out.println(sum);
-                    count++;
-                }
+            if(a[i]<0){
+                count++;
             }
         }
+
+        for (int i = 0; i < lengthArr; i++) {
+
+        }
+
+
         System.out.println(count);
     }
 }

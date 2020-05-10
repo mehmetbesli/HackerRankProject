@@ -8,21 +8,26 @@ import java.util.Scanner;
 public class Java1DArrayPart2 {
 
     public static boolean canWin(int leap, int[] game) {
+        if (game == null) {
+            return false;
+        }
         return isSolvable(leap, game, 0);
     }
 
-    private static boolean isSolvable(int leap, int[] game, int number) {
+    private static boolean isSolvable(int leap, int[] game, int i) {
         // Base Cases
-        if (number >= game.length) {
+        if (i >= game.length) {
             return true;
-        } else if (number < 0 || game[number] == 1) {
+        } else if (i < 0 || game[i] == 1) {
             return false;
         }
 
-        game[number] = 1;
-        return isSolvable(leap, game, number + leap) ||
-                isSolvable(leap, game, number + 1) ||
-                isSolvable(leap, game, number - 1);
+        game[i] = 1; // marks as visited
+
+        // Recursive Cases (Tries +m first to try to finish game quickly)
+        return isSolvable(leap, game, i + leap)
+                || isSolvable(leap, game, i + 1)
+                || isSolvable(leap, game, i - 1);
     }
 
     public static void main(String[] args) {

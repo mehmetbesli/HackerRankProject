@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7ad0b30-d0bf-40a2-aff7-4c727a5b8f9b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hackerRank/JavaArraylist.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerankProject/com/hackerRank/Java1DArrayPart2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerankProject/com/hackerRank/Java1DArrayPart2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerankProject/com/hackerRank/Subarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerankProject/com/hackerRank/Subarray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hackerRank/Subarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hackerRank/Subarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerankProject/com/hackerRank/Java1DArrayPart2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hackerRank/Java1DArrayPart2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hackerRank/Java1DArrayPart2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +51,13 @@
       <recent name="C:\ProjectExample\HackerankProject\src\com\hackerRank" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Subarray">
+  <component name="RunManager" selected="Application.JavaArraylist">
     <configuration name="Java1DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hackerRank.Java1DArray" />
       <module name="HackerankProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hackerRank.*" />
+          <option name="PATTERN" value="com.hackerRank.Java1DArrayPart2" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,7 +70,7 @@
       <module name="HackerankProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hackerRank.*" />
+          <option name="PATTERN" value="com.hackerRank.Java1DArrayPart2" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,7 +83,20 @@
       <module name="HackerankProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hackerRank.*" />
+          <option name="PATTERN" value="com.hackerRank.Java1DArrayPart2" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaArraylist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hackerRank.JavaArraylist" />
+      <module name="HackerankProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hackerRank.Java1DArrayPart2" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,7 +109,7 @@
       <module name="HackerankProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hackerRank.*" />
+          <option name="PATTERN" value="com.hackerRank.Java1DArrayPart2" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,8 +119,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaArraylist" />
         <item itemvalue="Application.Subarray" />
-        <item itemvalue="Application.Java1DArrayPart2" />
+        <item itemvalue="Application.Java1DArrayPart2Bakılacak" />
         <item itemvalue="Application.Java2DArray" />
         <item itemvalue="Application.Java1DArray" />
       </list>
@@ -138,45 +153,45 @@
     </state>
     <state width="403" height="466" key="DebuggerActiveHint/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1589025733844" />
     <state width="387" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1588606543324" />
-    <state width="1367" height="198" key="GridCell.Tab.0.bottom" timestamp="1589027224353">
+    <state width="1367" height="185" key="GridCell.Tab.0.bottom" timestamp="1589134411482">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="198" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1589027224353" />
+    <state width="1367" height="185" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1589134411482" />
     <state width="1367" height="180" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588606287825" />
-    <state width="1367" height="198" key="GridCell.Tab.0.center" timestamp="1589027224352">
+    <state width="1367" height="185" key="GridCell.Tab.0.center" timestamp="1589134411482">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="198" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1589027224352" />
+    <state width="1367" height="185" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1589134411482" />
     <state width="1367" height="180" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588606287825" />
-    <state width="1367" height="198" key="GridCell.Tab.0.left" timestamp="1589027224352">
+    <state width="1367" height="185" key="GridCell.Tab.0.left" timestamp="1589134411481">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="198" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1589027224352" />
+    <state width="1367" height="185" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1589134411481" />
     <state width="1367" height="180" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588606287825" />
-    <state width="1367" height="198" key="GridCell.Tab.0.right" timestamp="1589027224352">
+    <state width="1367" height="185" key="GridCell.Tab.0.right" timestamp="1589134411482">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="198" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1589027224352" />
+    <state width="1367" height="185" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1589134411482" />
     <state width="1367" height="180" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588606287825" />
-    <state width="1367" height="198" key="GridCell.Tab.1.bottom" timestamp="1589027221154">
+    <state width="1367" height="198" key="GridCell.Tab.1.bottom" timestamp="1589126616330">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="198" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1589027221154" />
+    <state width="1367" height="198" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1589126616330" />
     <state width="1367" height="180" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588606287826" />
-    <state width="1367" height="198" key="GridCell.Tab.1.center" timestamp="1589027221154">
+    <state width="1367" height="198" key="GridCell.Tab.1.center" timestamp="1589126616330">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="198" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1589027221154" />
+    <state width="1367" height="198" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1589126616330" />
     <state width="1367" height="180" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1588606287825" />
-    <state width="1367" height="198" key="GridCell.Tab.1.left" timestamp="1589027221154">
+    <state width="1367" height="198" key="GridCell.Tab.1.left" timestamp="1589126616329">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="198" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1589027221154" />
+    <state width="1367" height="198" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1589126616329" />
     <state width="1367" height="180" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1588606287825" />
-    <state width="1367" height="198" key="GridCell.Tab.1.right" timestamp="1589027221154">
+    <state width="1367" height="198" key="GridCell.Tab.1.right" timestamp="1589126616330">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1367" height="198" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1589027221154" />
+    <state width="1367" height="198" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1589126616330" />
     <state width="1367" height="180" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1588606287826" />
   </component>
   <component name="XDebuggerManager">
@@ -198,8 +213,18 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/hackerRank/Java1DArrayPart2.java</url>
-          <line>39</line>
+          <line>44</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerRank/JavaArraylist.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerRank/JavaArraylist.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -13,3 +13,9 @@ X
 (src/com/hackerRank/Java1DArrayPart2.java,a\2\a28d2ac131bcddbae96d01beee300c0a94f98363
 \
 ,src/com/hackerRank/BigDecimalHackerRank.java,1\1\1146aeaaaac057080c4d1513e67ea450ff5e765d
+R
+"src/com/hackerRank/IsAnagram2.java,8\d\8dfcfd420a010335f5c9b1059467dffbf4b3aadd
+a
+1src/com/hackerRank/Java1DArrayPart2Bakilacak.java,2\4\246256701364b10576b05b6c6a6ad74d64a8e610
+U
+%src/com/hackerRank/JavaArraylist.java,3\6\36a6fdddb2e164f5ab843cb86b8b8f580bbfcdc4

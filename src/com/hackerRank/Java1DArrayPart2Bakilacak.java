@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * created by MehmetBesli on 05.2020
  */
-public class Java1DArrayPart2 {
+public class Java1DArrayPart2Bakilacak {
 
     public static boolean canWin(int leap, int[] game) {
         if (game == null) {
